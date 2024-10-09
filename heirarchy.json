@@ -1,0 +1,11 @@
+{
+    "app": {
+        "Navigation":",",
+        "HomePage":{
+            "HomeCarousel":".",
+            "HomeProductSection":{
+                
+            }
+        }
+    }
+}
